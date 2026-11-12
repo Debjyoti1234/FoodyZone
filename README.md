@@ -26,6 +26,7 @@ A multi-page online food ordering system built with HTML5, CSS3 and Vanilla Java
 ## Demo limitations / security
 This is a frontend-only academic project. It does not have a backend, secure login, server-side admin permissions, live GPS, real restaurant inventory, real delivery tracking, or payment processing. Data is stored in browser localStorage and is specific to the browser/device. The admin page is for demonstration only and must not be used with real customer data. Fees and tax are illustrative sample calculations, not actual merchant charges.
 
+
 ## Suggested group division (5 members)
 1. Home, shared navigation, responsive CSS.
 2. Restaurant discovery, restaurant details and menu.
