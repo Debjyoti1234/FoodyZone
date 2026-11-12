@@ -35,3 +35,4 @@ This is a frontend-only academic project. It does not have a backend, secure log
 5. Admin demo, reviews, QA, documentation and GitHub release.
 
 All members should understand the overall app flow and be able to explain the localStorage data model during viva.
+
