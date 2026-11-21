@@ -34,7 +34,7 @@ This is a frontend-only academic project. It does not have a backend, secure log
 4. Checkout, profile, addresses, wishlist and orders.
 5. Admin demo, reviews, QA, documentation and GitHub release.
 
-Project Members:      ||   Date: 29/10/2026  ||
+Project Members:
 1.Swagata Roy
 2.Debjyoti Karmakar
 3.Arnab Koley
