@@ -34,5 +34,10 @@ This is a frontend-only academic project. It does not have a backend, secure log
 4. Checkout, profile, addresses, wishlist and orders.
 5. Admin demo, reviews, QA, documentation and GitHub release.
 
-All members should understand the overall app flow and be able to explain the localStorage data model during viva.
+Project Members:      ||   Date: 29/10/2026
+1.Swagata Roy
+2.Debjyoti Karmakar
+3.Arnab Koley
+4.Raghubir Dey
+5.Radhakrishna Pal
 
